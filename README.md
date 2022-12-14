@@ -8,7 +8,6 @@
 [![License](https://img.shields.io/github/license/MrShadowDev/Discord-Giveaway-Bot)](https://github.com/MrShadowDev/Discord-Giveaway-Bot/blob/master/LICENSE) [![Repo size](https://img.shields.io/github/repo-size/MrShadowDev/Discord-Giveaway-Bot)](https://github.com/MrShadowDev/Discord-Giveaway-Bot) [![Language](https://img.shields.io/github/languages/top/MrShadowDev/Discord-Giveaway-Bot)](https://github.com/MrShadowDev/Discord-Giveaway-Bot/search?l=JavaScript) 
 
 
-⚠️ Outdated ⚠️
 
 </div>
 
